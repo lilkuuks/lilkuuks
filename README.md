@@ -4,10 +4,7 @@
 **lilkuuks/lilkuuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-<div align="center">
-  <img height="204" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif"  />
-</div>
+<img align="right" height="204" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif"  />
 
 ###
 
