@@ -76,15 +76,17 @@
 </div>
 
 
-
-<div align="left" style="display: inline-block; vertical-align: middle;">
+<div style="display: inline-flex;"
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=lilkuuks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
 </div>
-<div align="right" style="display: inline-block; vertical-align: middle;">
+<div align="right">
 <img src="https://streak-stats.demolab.com/?user=lilkuuks&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
+</div>
 </div>
 
 <hr>
+
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg"/>
 </div>
