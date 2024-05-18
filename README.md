@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm  Passionate about Tech<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ... Machine Learning<br>- ⚡ In my free time I explore the world of technology | research</p>
+<p align="left">I'm  Passionate about Tech<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...something new<br>- ⚡ In my free time I explore the world of technology | research</p>
 
 ###
 
