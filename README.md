@@ -50,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img scr="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAP1BMVEVHcEzZPkTXPkXXPkUep+Agpt4gpt/YPkXYP0bXPkXiMTAEreggp98gp9/YPkXYP0Ugp9/YP0XYP0Ugpt8gp98lkU6ZAAAAFXRSTlMAETQyDzIlxf/8PT3/5WqsYuuQia4U8NvBAAAAZklEQVR4AeTLxREDMQAEwRUzK/9UzezN4ObbNThSQqpbUmjzkb2Z8+GWjyl/VHCpBn+PoGieY79gHByLBsT0HBcAGTgWe8HpOS4NiMGxJADVc9z6goNj6bjkON5GiM8A/ey8YZZ8ACs2C8zispG4AAAAAElFTkSuQmCC" height="40" alt="css3 logo"
 </div>
 
 ###
