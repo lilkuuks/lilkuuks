@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Coding, Research, Cybersecurity 🔐 | Machine learning | Uncovering digital secrets 💻 | Guardian of the virtual realm 🛡️"</h3>
+<h3 align="left">👩‍💻  Coding, Research, Network guy 🔐 | Machine learning | Uncovering digital secrets 🛡️"</h3>
 
 ###
 
